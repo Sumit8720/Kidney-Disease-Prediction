@@ -1,2 +1,2 @@
 # Kidney-Disease-Prediction
-Kidney Disease Prediction using M
+Kidney Disease Prediction using Machine Learning
